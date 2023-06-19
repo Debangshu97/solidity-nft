@@ -1,0 +1,11 @@
+{
+    "name": "AN",
+    "description": "An anime man!",
+    "image": "https://ipfs.io/ipfs/QmdbzBAzJyiQ2iNS62629j61wpwvF7N7EjEih4GZPoP5Jr?filename=nft.jpg",
+    "attributes": [
+        {
+            "trait_type": "cuteness",
+            "value": 1000
+        }
+    ]
+}
